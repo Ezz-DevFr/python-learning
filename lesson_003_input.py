@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+game = input("What is your favorite game? ")
+print("hello, " + name)
+print("You are " + age + " years old.")
+print("Your favorite game is " + game + ".")
