@@ -1,0 +1,5 @@
+age = int(input("what is your age? "))
+if age >= 18:
+    print("You are an adult.")
+else:
+    print("you are a minor.")
